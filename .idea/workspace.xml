@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="378a329e-9049-4eb2-b890-449bcceb772c" name="Default" comment="" />
-    <list id="8644f864-0725-405e-9997-5c9cc3541e3a" name="New changelist" comment="" />
-    <list id="a0fdcd1f-e32e-4fa2-b4c6-1bc7a45d9e53" name="AlmostTenPM" comment="">
+    <list default="true" id="378a329e-9049-4eb2-b890-449bcceb772c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
+    <list id="8644f864-0725-405e-9997-5c9cc3541e3a" name="New changelist" comment="" />
     <ignored path="junk.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,11 @@
     </leaf>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jbunkel &lt;julie.bunkelman@libertymutual.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -340,11 +343,18 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="378a329e-9049-4eb2-b890-449bcceb772c" name="Default" comment="" />
       <changelist id="8644f864-0725-405e-9997-5c9cc3541e3a" name="New changelist" comment="" />
-      <changelist id="a0fdcd1f-e32e-4fa2-b4c6-1bc7a45d9e53" name="AlmostTenPM" comment="" />
+      <changelist id="" name="AlmostTenPM" comment="" />
       <created>1516845899209</created>
       <option name="number" value="Default" />
       <updated>1516845899209</updated>
     </task>
+    <task id="LOCAL-00001" summary="AlmostTenPM">
+      <created>1516848899395</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516848899395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -386,6 +396,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="AlmostTenPM" />
+    <option name="LAST_COMMIT_MESSAGE" value="AlmostTenPM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
